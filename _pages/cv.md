@@ -9,9 +9,15 @@ nav_order: 2
 ## education
 **Mar. 2022–Present · UNIST**<br>
 B.S. in Computer Science and Engineering, in progress<br>
-GPA: **3.37/4.3**
 
 Selected coursework: Data Structures (A−), Database Systems (A−), Mobile Computing (A0).
+
+## research experience
+**Reinforcement Learning Research Intern · AI-CORE Lab**<br>
+Advisor: Prof. YoungSoo Jang (장영수)
+- Led a reinforcement learning textbook study group for fellow interns.
+- Completed the planned half of the textbook over the summer.
+- Encouraged questions and discussion among interns.
 
 ## honors
 **May 2023 · First Place, Team Award**<br>
