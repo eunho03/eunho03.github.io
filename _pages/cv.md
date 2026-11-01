@@ -56,6 +56,7 @@ Awarded by the Director of the KAIST Center for Entrepreneurship.<br>
 
 ## leadership & service
 **Member, CSE Supporters, UNIST** · Mar. 2026–Present
+
 **Member, HeXA Computing Club, UNIST** · Mar.–Jul. 2025
 
 - Designed a campus carpooling service.
