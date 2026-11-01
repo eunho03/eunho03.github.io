@@ -33,13 +33,14 @@ Collaborative research participant
 
 
 ## projects
+**BATT-Route: Battery-aware Routing for Mobile LLM Services**<br>
+Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report co-author
+
 **Hyundai Motor Group In-Vehicle App Development Challenge** · Oct. 2026–Present<br>
 
 **Deep Learning Course Project** · Sep. 2026–Present<br>
 In progress.
 
-**BATT-Route: Battery-aware Routing for Mobile LLM Services**<br>
-Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report co-author
 
 
 **[K-AI Manufacturing Data Analysis Competition](https://www.kamp-ai.kr/contestMain)** · Sep.–Oct. 2026
