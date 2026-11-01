@@ -5,6 +5,20 @@
 </style> <link rel="stylesheet" href="/assets/css/tailwind.css?v=50c64c15cbb9fd1ce6056fdb8bcb4b62"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" integrity="sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css" integrity="sha256-SzrCOBJbGVFMahewkgjwnApaV2+av1DwMAA+/QGLyZw=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/scholar-icons@1.0.3/css/scholar-icons.css" integrity="sha256-VY3hHVj/hNX3fYG6wtbA6TcKJQl7+FthzGSyIB64klY=" crossorigin="anonymous"> <link defer rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&amp;display=swap"> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-github.css?v=591dab5a4e56573bf4ef7fd332894c99" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;EK&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/assets/css/main.css?v=3116ba77db9ee1581d05bb3e86fbf7f1"> <link rel="canonical" href="https://eunho03.github.io/projects/"> <script src="/assets/js/theme.js?v=5286c3e4c334d0ecb8fc0c40ff4fa7ec"></script> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-native.css?v=5847e5ed4a4568527aa6cfab446049ca" media="none" id="highlight_theme_dark"> <script>
     initTheme();
   </script> </head> <body class="fixed-top-nav sticky-bottom-footer"> <style>
+  :root, html[data-theme='light'] { --global-theme-color:#294d70; --global-hover-color:#1b3854; }
+  html[data-theme='dark'] { --global-theme-color:#a3bdd8; --global-hover-color:#c4d7eb; }
+  .container { max-width:1040px; }
+  body { line-height:1.7; }
+  .post-title { font-size:2.3rem; font-weight:500; letter-spacing:-.035em; }
+  article h2 { font-size:1.45rem; font-weight:500; margin-top:2.6rem; padding-bottom:.55rem; border-bottom:1px solid var(--global-divider-color); }
+  article h3 { font-size:1.15rem; font-weight:500; }
+  article a { text-underline-offset:3px; }
+  article li { margin-bottom:.35rem; }
+  .project-meta { color:var(--global-text-color-light); font-size:.9rem; }
+  .research-facts { margin:1rem 0 2rem; }
+  .research-facts dt { font-weight:600; font-size:.87rem; margin-top:1rem; color:var(--global-theme-color); }
+  .research-facts dd { margin:.2rem 0 0; }
+
   #navbar .site-menu { display:flex; align-items:center; justify-content:flex-end; gap:1.4rem; width:100%; min-height:3.5rem; }
   #navbar .site-menu a { color:var(--global-text-color); text-decoration:none; padding:.5rem 0; font-size:1rem; }
   #navbar .site-menu a[aria-current="page"] { color:var(--global-theme-color); font-weight:500; }
