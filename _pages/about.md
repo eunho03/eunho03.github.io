@@ -33,17 +33,18 @@ permalink: /
 }
 
 .research-peek { position:relative; border-bottom:1px solid var(--global-divider-color); }
-.research-peek summary { display:grid; grid-template-columns:180px 1fr 20px; gap:24px; align-items:start; padding:18px 0; cursor:pointer; list-style:none; }
+.research-peek summary { display:grid; grid-template-columns:220px 1fr 20px; gap:44px; align-items:start; padding:18px 0; cursor:pointer; list-style:none; }
 .research-peek summary::-webkit-details-marker { display:none; }
 .research-peek summary strong { font-size:17px; font-weight:500; }
-.peek-date,.peek-meta { font-size:13px; color:var(--global-text-color-light); }
+.peek-date { font-size:15px; font-weight:600; color:var(--global-text-color); }
+.peek-meta { font-size:14px; color:var(--global-text-color-light); }
 .peek-meta { display:block; margin-top:3px; }
 .peek-plus { color:var(--global-theme-color); }
 .research-peek[open] { z-index:5; }
 .research-peek[open] summary strong { color:var(--global-theme-color); }
 .research-peek[open] .peek-plus { transform:rotate(45deg); }
 .research-peek summary:focus-visible { outline:2px solid var(--global-theme-color); outline-offset:3px; }
-.peek-panel { position:absolute; left:204px; right:0; top:calc(100% - 4px); padding:20px 24px; background:var(--global-bg-color); border:1px solid var(--global-divider-color); border-radius:6px; box-shadow:0 8px 28px #00000018; font-size:15px; line-height:1.65; }
+.peek-panel { position:absolute; left:264px; right:0; top:calc(100% - 4px); padding:20px 24px; background:var(--global-bg-color); border:1px solid var(--global-divider-color); border-radius:6px; box-shadow:0 8px 28px #00000018; font-size:15px; line-height:1.65; }
 .peek-panel p { margin:0 0 12px; }
 .peek-panel p:last-child { margin-bottom:0; }
 @media(max-width:700px) { .research-peek summary { grid-template-columns:1fr 20px; gap:4px 12px; } .peek-date { grid-column:1; } .research-peek summary>span:nth-child(2) { grid-column:1; } .peek-plus { grid-column:2; grid-row:1 / 3; } .peek-panel { position:static; margin-bottom:15px; padding:16px; box-shadow:none; } }
@@ -76,24 +77,24 @@ permalink: /
   <section class="academic-section" aria-labelledby="experience-heading">
     <h2 id="experience-heading">research &amp; academic experience</h2>
     <details class="research-peek">
-      <summary><span class="peek-date">Apr – Oct 2026</span><span><strong>Graph Community Detection</strong><span class="peek-meta">Data Mining Lab · AICP</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
+      <summary><span class="peek-date">Apr 2026 – Oct 2026</span><span><strong>Graph Community Detection</strong><span class="peek-meta">Data Mining Lab · AICP</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
       <div class="peek-panel"><p><strong>Contribution</strong><br>Participated in graph rewiring research; co-authored the research poster.</p><p><a href="https://sites.google.com/view/dm-unist/home">Data Mining Lab</a> · <a href="https://sites.google.com/view/junghoon-kim">Prof. Junghoon Kim</a><br><a href="https://bts.unist.ac.kr/pgdocument/aicp">Artificial Intelligence Challengers Program</a></p></div>
     </details>
     <details class="research-peek">
-      <summary><span class="peek-date">Apr – Jul 2026</span><span><strong>Insurance Enrollment Prediction</strong><span class="peek-meta">Korea Workers’ Compensation &amp; Welfare Service</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
+      <summary><span class="peek-date">Jun 2026 – Aug 2026</span><span><strong>Reinforcement Learning</strong><span class="peek-meta">AI-CORE Lab</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
+      <div class="peek-panel"><p><strong>Activity</strong><br>Organized an intern textbook study group and completed the planned half of the textbook.</p><p><a href="https://sites.google.com/view/unist-aicorelab">AI-CORE Lab</a> · <a href="https://www.ysjang.me/">Prof. YoungSoo Jang</a></p></div>
+    </details>
+    <details class="research-peek">
+      <summary><span class="peek-date">Apr 2026 – Jul 2026</span><span><strong>Insurance Enrollment Prediction</strong><span class="peek-meta">Korea Workers’ Compensation &amp; Welfare Service</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
       <div class="peek-panel"><p><strong>Contribution</strong><br>Participated in insurance enrollment prediction experiments using employment and labor insurance subscriber data.</p></div>
     </details>
     <details class="research-peek">
-      <summary><span class="peek-date">Research internship</span><span><strong>Reinforcement Learning</strong><span class="peek-meta">AI-CORE Lab</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
-      <div class="peek-panel"><p><strong>Activity</strong><br>Organized an intern textbook study group and completed the planned half of the textbook.</p><p><a href="https://sites.google.com/view/unist-aicorelab">AI-CORE Lab</a> · <a href="https://www.ysjang.me/">Prof. YoungSoo Jang</a></p></div>
+      <summary><span class="peek-date">Mar 2026 – Jun 2026</span><span><strong>BATT-Route · Mobile LLM Routing</strong><span class="peek-meta">Mobile Computing · Four-person team</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
+      <div class="peek-panel"><p><strong>Contribution</strong><br>Reviewed and presented three papers; co-authored the team report.</p><p><strong>Team project</strong><br>Battery-aware edge–cloud routing, evaluated for accuracy, latency, and client-side battery cost.</p><p><a href="{{ "/projects/" | relative_url }}">Project details →</a></p></div>
     </details>
     <details class="research-peek">
       <summary><span class="peek-date">2026</span><span><strong>Manufacturing Data Analysis</strong><span class="peek-meta">K-AI Manufacturing Data Analysis Competition</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
       <div class="peek-panel"><p><strong>Contribution</strong><br>Assessed data quality with EDA, substituted external data, and expanded features to improve baseline performance.</p></div>
-    </details>
-    <details class="research-peek">
-      <summary><span class="peek-date">Course research</span><span><strong>BATT-Route · Mobile LLM Routing</strong><span class="peek-meta">Mobile Computing · Four-person team</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
-      <div class="peek-panel"><p><strong>Contribution</strong><br>Reviewed and presented three papers; co-authored the team report.</p><p><strong>Team project</strong><br>Battery-aware edge–cloud routing, evaluated for accuracy, latency, and client-side battery cost.</p><p><a href="{{ "/projects/" | relative_url }}">Project details →</a></p></div>
     </details>
   </section>
 </div>
