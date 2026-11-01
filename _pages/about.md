@@ -77,6 +77,10 @@ permalink: /
   <section class="academic-section" aria-labelledby="experience-heading">
     <h2 id="experience-heading">research &amp; academic experience</h2>
     <details class="research-peek">
+      <summary><span class="peek-date">Sep 2026 – Oct 2026</span><span><strong>Manufacturing Data Analysis</strong><span class="peek-meta">K-AI Manufacturing Data Analysis Competition</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
+      <div class="peek-panel"><p><strong>Contribution</strong><br>Assessed data quality with EDA, substituted external data, and expanded features to improve baseline performance.</p></div>
+    </details>
+    <details class="research-peek">
       <summary><span class="peek-date">Apr 2026 – Oct 2026</span><span><strong>Graph Community Detection</strong><span class="peek-meta">Data Mining Lab · AICP</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
       <div class="peek-panel"><p><strong>Contribution</strong><br>Participated in graph rewiring research; co-authored the research poster.</p><p><a href="https://sites.google.com/view/dm-unist/home">Data Mining Lab</a> · <a href="https://sites.google.com/view/junghoon-kim">Prof. Junghoon Kim</a><br><a href="https://bts.unist.ac.kr/pgdocument/aicp">Artificial Intelligence Challengers Program</a></p></div>
     </details>
@@ -91,10 +95,6 @@ permalink: /
     <details class="research-peek">
       <summary><span class="peek-date">Mar 2026 – Jun 2026</span><span><strong>BATT-Route · Mobile LLM Routing</strong><span class="peek-meta">Mobile Computing · Four-person team</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
       <div class="peek-panel"><p><strong>Contribution</strong><br>Reviewed and presented three papers; co-authored the team report.</p><p><strong>Team project</strong><br>Battery-aware edge–cloud routing, evaluated for accuracy, latency, and client-side battery cost.</p><p><a href="{{ "/projects/" | relative_url }}">Project details →</a></p></div>
-    </details>
-    <details class="research-peek">
-      <summary><span class="peek-date">2026</span><span><strong>Manufacturing Data Analysis</strong><span class="peek-meta">K-AI Manufacturing Data Analysis Competition</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
-      <div class="peek-panel"><p><strong>Contribution</strong><br>Assessed data quality with EDA, substituted external data, and expanded features to improve baseline performance.</p></div>
     </details>
   </section>
 </div>
