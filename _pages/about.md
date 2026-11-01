@@ -55,7 +55,7 @@ permalink: /
   <div class="academic-intro">
     <aside class="portrait-column" aria-label="Profile photo and contact links">
       <img src="{{ '/eunho.jpg' | relative_url }}" alt="Portrait of Eun Ho Koh" width="685" height="898">
-      <p class="profile-cv"><a href="{{ "/CV.pdf" | relative_url }}?v=20261101-2">Curriculum Vitae</a></p>
+      <p class="profile-cv"><a href="{{ "/CV.pdf" | relative_url }}?v=20261102-1">Curriculum Vitae</a></p>
       <div class="profile-links">
         <a href="mailto:ehko030715@unist.ac.kr" aria-label="Email Eun Ho Koh" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
         <a href="https://github.com/eunho03" aria-label="Eun Ho Koh on GitHub" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
