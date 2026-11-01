@@ -36,7 +36,7 @@ Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report 
 - Team prototype: battery-aware edge–cloud routing; Android, Qwen3-14B, Gemini 2.5 Flash.
 - Evaluation: accuracy, latency, client-side battery cost; ARC-Easy, MMLU, GSM8K.
 
-**K-AI Manufacturing Data Analysis Competition** · 2026
+**K-AI Manufacturing Data Analysis Competition** · Sep.–Oct. 2026
 
 - EDA, external data substitution, feature expansion; improved baseline performance.
 
