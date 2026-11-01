@@ -18,19 +18,19 @@ Selected coursework: Data Structures (A−), Database Systems (A−), Mobile Com
 
 - Graph rewiring for community detection; research poster co-author.
 
+**AI-CORE Lab · Reinforcement Learning Research Intern** · Jun.–Aug. 2026<br>
+[Lab](https://sites.google.com/view/unist-aicorelab) · Advisor: [Prof. YoungSoo Jang](https://www.ysjang.me/)
+
+- Organized an intern textbook study group; completed the planned half of the textbook.
+
 **Korea Workers’ Compensation & Welfare Service** · Apr.–Jul. 2026<br>
 Collaborative research participant
 
 - Insurance enrollment prediction using subscriber data.
 
-**AI-CORE Lab · Reinforcement Learning Research Intern**<br>
-[Lab](https://sites.google.com/view/unist-aicorelab) · Advisor: [Prof. YoungSoo Jang](https://www.ysjang.me/)
-
-- Organized an intern textbook study group; completed the planned half of the textbook.
-
 ## selected projects
 **BATT-Route: Battery-aware Routing for Mobile LLM Services**<br>
-Mobile Computing · 4-member team · Course research report co-author
+Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report co-author
 
 - Reviewed and presented three research papers.
 - Team prototype: battery-aware edge–cloud routing; Android, Qwen3-14B, Gemini 2.5 Flash.
