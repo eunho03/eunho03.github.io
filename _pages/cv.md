@@ -41,9 +41,6 @@ In progress.
 **BATT-Route: Battery-aware Routing for Mobile LLM Services**<br>
 Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report co-author
 
-- Reviewed and presented three research papers.
-- Team prototype: battery-aware edge–cloud routing; Android, Qwen3-14B, Gemini 2.5 Flash.
-- Evaluation: accuracy, latency, client-side battery cost; ARC-Easy, MMLU, GSM8K.
 
 **[K-AI Manufacturing Data Analysis Competition](https://www.kamp-ai.kr/contestMain)** · Sep.–Oct. 2026
 
@@ -64,7 +61,10 @@ CSE Student Council contributions.
 
 **Member, HeXA Computing Club, UNIST** · Mar.–Jul. 2025
 
-**President, UNIST Startup Bible (USB)**
+- Designed a campus carpooling service.
+
+**President, UNIST Startup Bible (USB)** · Dec. 2022–Sep. 2023<br>
+Joined USB in Apr. 2022.
 
 - KRW 8 million secured through Ulsan’s 2023 Youth Community Revitalization Program.
 
