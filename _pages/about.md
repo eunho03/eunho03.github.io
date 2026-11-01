@@ -49,8 +49,7 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
       <p class="affiliation">Computer Science and Engineering · UNIST</p>
       <p>Hello! I am an undergraduate student in Computer Science and Engineering at <a href="https://www.unist.ac.kr/">Ulsan National Institute of Science and Technology (UNIST)</a>.</p>
       <p>My interests include data-driven modeling and prediction, efficient LLM inference, and LLM-based agent systems. Through coursework and project work, I have explored data analysis, mobile applications, and machine learning.</p>
-      <p>I enjoy identifying problems in real-world data and connecting analysis with working software. I was a reinforcement learning research intern at AI-CORE Lab with Prof. YoungSoo Jang (장영수).</p>
-      <p>Beyond research, I served as president of UNIST Startup Bible (USB), formalizing its nonprofit status, securing KRW 8 million in public funding, and launching “Refresh,” the organization’s first recurring ideathon. I currently serve as a member of CSE Supporters.</p>
+      <p>I enjoy identifying problems in real-world data and connecting analysis with working software. I was a reinforcement learning research intern at <a href="https://sites.google.com/view/unist-aicorelab">AI-CORE Lab</a> with <a href="https://www.ysjang.me/">Prof. YoungSoo Jang (장영수)</a>.</p>
       <p>You can find more about my work in <a href="{{ '/projects/' | relative_url }}">projects</a> and my <a href="{{ '/cv/' | relative_url }}">CV</a>. The best way to reach me is by <a href="mailto:ehko030715@unist.ac.kr">email</a>.</p>
     </div>
   </div>
@@ -62,11 +61,11 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
     </div>
   </section>
   <section class="academic-section" aria-labelledby="experience-heading">
-    <h2 id="experience-heading">selected experience</h2>
+    <h2 id="experience-heading">research &amp; academic experience</h2>
     <div class="academic-row">
       <div class="academic-date">Apr – Oct 2026</div>
-      <div><h3>Graph Community Detection Research · Data Mining Lab</h3>
-        <p class="detail">Advisor: Prof. Junghoon Kim · UNIST<br><a href="https://edu.unist.ac.kr/aicp/">Artificial Intelligence Challengers Program (AICP)</a></p>
+      <div><h3>Graph Community Detection Research · <a href="https://sites.google.com/view/dm-unist/home">Data Mining Lab</a></h3>
+        <p class="detail">Advisor: <a href="https://sites.google.com/view/junghoon-kim">Prof. Junghoon Kim</a> · UNIST<br><a href="https://edu.unist.ac.kr/aicp/">Artificial Intelligence Challengers Program (AICP)</a></p>
         <ul><li><strong>Participated in team research on structure-preserving graph rewiring</strong> for community detection; co-authored the research poster.</li><li>The team's SPACE method combines embedding similarity and local structural similarity to redirect edges while preserving the edge count.</li><li>The study evaluated community detection using Louvain and Leiden, with ARI and modularity as evaluation metrics.</li></ul>
       </div>
     </div>
@@ -79,8 +78,8 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
     </div>
     <div class="academic-row">
       <div class="academic-date">Research internship</div>
-      <div><h3>Reinforcement Learning Research Intern · AI-CORE Lab</h3>
-        <p class="detail">Advisor: Prof. YoungSoo Jang (장영수)</p>
+      <div><h3>Reinforcement Learning Research Intern · <a href="https://sites.google.com/view/unist-aicorelab">AI-CORE Lab</a></h3>
+        <p class="detail">Advisor: <a href="https://www.ysjang.me/">Prof. YoungSoo Jang (장영수)</a></p>
         <ul><li><strong>Led a reinforcement learning textbook study group</strong> to support fellow interns' learning.</li><li>Completed the planned half of the textbook over the summer.</li><li>Encouraged questions and discussion among interns.</li></ul>
       </div>
     </div>
@@ -97,32 +96,6 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
         <p class="detail">Course projects · Kotlin · Android Studio</p>
         <ul><li><strong>Implemented two locally running Android applications.</strong></li><li>Built an on-device object recognition app.</li><li>Built an app to predict user activity from real-time IMU sensor data.</li></ul>
       </div>
-    </div>
-  </section>
-  <section class="academic-section" aria-labelledby="leadership-heading">
-    <h2 id="leadership-heading">leadership &amp; service</h2>
-    <div class="academic-row">
-      <div class="academic-date">Mar 2026 – present</div>
-      <div><h3>Member, CSE Supporters · UNIST</h3>
-        <ul><li><strong>Created the first-ever department jacket</strong> for Computer Science and Engineering at UNIST.</li><li>Received a team Student Merit Award for contributions to the CSE Student Council in September 2026.</li></ul>
-      </div>
-    </div>
-    <div class="academic-row">
-      <div class="academic-date">Student entrepreneurship</div>
-      <div><h3>President, UNIST Startup Bible (USB)</h3>
-        <ul><li><strong>Registered USB as a nonprofit organization.</strong></li><li><strong>Secured KRW 8 million in funding</strong> through Ulsan Metropolitan City's 2023 Youth Community Revitalization Program (청년공동체 활성화 사업).</li><li><strong>Launched “Refresh” (새로고침)</strong>, USB's first recurring ideathon, in March 2023.</li></ul>
-      </div>
-    </div>
-  </section>
-  <section class="academic-section" aria-labelledby="honors-heading">
-    <h2 id="honors-heading">honors</h2>
-    <div class="academic-row">
-      <div class="academic-date">Sep 2026</div>
-      <div><h3>Student Merit Award (Team Award) · UNIST</h3><p>Recognized for contributions to the CSE Student Council as a member of CSE Supporters.</p></div>
-    </div>
-    <div class="academic-row">
-      <div class="academic-date">May 2023</div>
-      <div><h3>First Place (5-member team) · KAIST</h3><p>Student Startup Competition</p><ul><li><strong>Proposed U-in (Update Interface)</strong>, a platform concept using data analysis and generative AI to support UI/UX improvement.</li></ul><p><a href="https://docs.google.com/presentation/d/1cXm37OX8B42wRRq6S16i2StgV6BaVh9VDfI3NG8HTPo/mobilepresent?slide=id.g247ee34c1d6_5_117">Presentation slides</a></p></div>
     </div>
   </section>
 </div>
