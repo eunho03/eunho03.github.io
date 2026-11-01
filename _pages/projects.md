@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 ## BATT-Route: Battery-aware Routing for Mobile LLM Services
-<p class="project-meta">Mobile Computing · Four-person team · Course research report</p>
+<p class="project-meta">Mar.–Jun. 2026 · Mobile Computing · Four-person team · Course research report</p>
 <dl class="research-facts">
 <dt>Research question</dt>
 <dd>How can a mobile LLM service balance accuracy, response latency, and client-side battery cost when routing requests between edge and cloud backends?</dd>
