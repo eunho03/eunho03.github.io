@@ -14,7 +14,7 @@ Selected coursework: Data Structures (A−), Database Systems (A−), Mobile Com
 ## research experience
 **Data Mining Lab · AICP Research Participant** · Apr.–Oct. 2026<br>
 [Lab](https://sites.google.com/view/dm-unist/home) · Advisor: [Prof. Junghoon Kim](https://sites.google.com/view/junghoon-kim)<br>
-[Artificial Intelligence Challengers Program](https://edu.unist.ac.kr/aicp/)
+[Artificial Intelligence Challengers Program](https://bts.unist.ac.kr/pgdocument/aicp)
 
 - Graph rewiring for community detection; research poster co-author.
 
