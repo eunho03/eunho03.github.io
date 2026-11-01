@@ -13,8 +13,8 @@ B.S. in Computer Science and Engineering, in progress<br>
 Selected coursework: Data Structures (A−), Database Systems (A−), Mobile Computing (A0).
 
 ## research experience
-**Apr.–Oct. 2026 · Research Participant, Data Mining Lab, UNIST**<br>
-Advisor: Prof. Junghoon Kim<br>
+**Apr.–Oct. 2026 · Research Participant, [Data Mining Lab](https://sites.google.com/view/dm-unist/home), UNIST**<br>
+Advisor: [Prof. Junghoon Kim](https://sites.google.com/view/junghoon-kim)<br>
 [Artificial Intelligence Challengers Program (AICP)](https://edu.unist.ac.kr/aicp/)
 
 - **Participated in team research on structure-preserving graph rewiring for community detection.**
@@ -28,8 +28,8 @@ Korea Workers' Compensation & Welfare Service (근로복지공단)
 - **Participated in prediction experiments for enrollment in a specific insurance product** using employment and labor insurance subscriber data.
 - Joined this paid, related research project in recognition of my participation in AICP research.
 
-**Reinforcement Learning Research Intern · AI-CORE Lab**<br>
-Advisor: Prof. YoungSoo Jang (장영수)
+**Reinforcement Learning Research Intern · [AI-CORE Lab](https://sites.google.com/view/unist-aicorelab)**<br>
+Advisor: [Prof. YoungSoo Jang (장영수)](https://www.ysjang.me/)
 - Led a reinforcement learning textbook study group for fellow interns.
 - Completed the planned half of the textbook over the summer.
 - Encouraged questions and discussion among interns.
@@ -42,7 +42,8 @@ Advisor: Prof. YoungSoo Jang (장영수)
 **May 2023 · First Place (5-member team)**<br>
 Student Startup Competition, KAIST
 
-- Proposed U-in (Update Interface), a platform concept using data analysis and generative AI to support UI/UX improvement.
+- Proposed U-in (Update Interface) in response to Selectstar’s challenge of extending its data collection and labeling services to deliver actionable customer insights.
+- Presented a platform concept using data analysis and generative AI to support UI/UX improvement.
 - [Presentation slides](https://docs.google.com/presentation/d/1cXm37OX8B42wRRq6S16i2StgV6BaVh9VDfI3NG8HTPo/mobilepresent?slide=id.g247ee34c1d6_5_117)
 
 ## leadership & service
