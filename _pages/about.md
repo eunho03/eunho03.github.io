@@ -63,6 +63,20 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
   <section class="academic-section" aria-labelledby="experience-heading">
     <h2 id="experience-heading">selected experience</h2>
     <div class="academic-row">
+      <div class="academic-date">Apr – Oct 2026</div>
+      <div><h3>Graph Community Detection Research · Data Mining Lab</h3>
+        <p class="detail">Advisor: Prof. Junghoon Kim · UNIST<br><a href="https://edu.unist.ac.kr/aicp/">Artificial Intelligence Challengers Program (AICP)</a></p>
+        <ul><li><strong>Participated in team research on structure-preserving graph rewiring</strong> for community detection; co-authored the research poster.</li><li>The team's SPACE method combines embedding similarity and local structural similarity to redirect edges while preserving the edge count.</li><li>The study evaluated community detection using Louvain and Leiden, with ARI and modularity as evaluation metrics.</li></ul>
+      </div>
+    </div>
+    <div class="academic-row">
+      <div class="academic-date">Apr – Jul 2026</div>
+      <div><h3>Insurance Enrollment Prediction · Collaborative Research</h3>
+        <p class="detail">Korea Workers' Compensation &amp; Welfare Service (근로복지공단)</p>
+        <ul><li><strong>Participated in experiments to predict enrollment in a specific insurance product</strong> using employment and labor insurance subscriber data.</li><li>Joined this paid, related research project in recognition of my participation in AICP research.</li></ul>
+      </div>
+    </div>
+    <div class="academic-row">
       <div class="academic-date">Research internship</div>
       <div><h3>Reinforcement Learning Research Intern · AI-CORE Lab</h3>
         <p class="detail">Advisor: Prof. YoungSoo Jang (장영수)</p>
