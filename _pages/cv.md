@@ -7,63 +7,62 @@ nav_order: 2
 ---
 
 ## education
-**Mar. 2022–Present · UNIST**<br>
-B.S. in Computer Science and Engineering, in progress<br>
-
+**UNIST · B.S. in Computer Science and Engineering (in progress)**<br>
+Mar. 2022–Present<br>
 Selected coursework: Data Structures (A−), Database Systems (A−), Mobile Computing (A0).
 
 ## research experience
-**Apr.–Oct. 2026 · Research Participant, [Data Mining Lab](https://sites.google.com/view/dm-unist/home), UNIST**<br>
-Advisor: [Prof. Junghoon Kim](https://sites.google.com/view/junghoon-kim)<br>
-[Artificial Intelligence Challengers Program (AICP)](https://edu.unist.ac.kr/aicp/)
+**Data Mining Lab · AICP Research Participant** · Apr.–Oct. 2026<br>
+[Lab](https://sites.google.com/view/dm-unist/home) · Advisor: [Prof. Junghoon Kim](https://sites.google.com/view/junghoon-kim)<br>
+[Artificial Intelligence Challengers Program](https://edu.unist.ac.kr/aicp/)
 
-- **Participated in team research on structure-preserving graph rewiring for community detection.**
-- Co-authored the research poster, *Embedding-Based Structure-Preserving Graph Rewiring for Community Detection*.
-- The team's SPACE method combines embedding and local structural similarity to redirect edges while preserving the edge count.
-- The study evaluated Louvain and Leiden community detection with ARI and modularity.
+- Graph rewiring for community detection; research poster co-author.
 
-**Apr.–Jul. 2026 · Insurance Enrollment Prediction, Collaborative Research**<br>
-Korea Workers' Compensation & Welfare Service (근로복지공단)
+**Korea Workers’ Compensation & Welfare Service** · Apr.–Jul. 2026<br>
+Collaborative research participant
 
-- **Participated in prediction experiments for enrollment in a specific insurance product** using employment and labor insurance subscriber data.
-- Joined this paid, related research project in recognition of my participation in AICP research.
+- Insurance enrollment prediction using subscriber data.
 
-**Reinforcement Learning Research Intern · [AI-CORE Lab](https://sites.google.com/view/unist-aicorelab)**<br>
-Advisor: [Prof. YoungSoo Jang (장영수)](https://www.ysjang.me/)
-- Led a reinforcement learning textbook study group for fellow interns.
-- Completed the planned half of the textbook over the summer.
-- Encouraged questions and discussion among interns.
+**AI-CORE Lab · Reinforcement Learning Research Intern**<br>
+[Lab](https://sites.google.com/view/unist-aicorelab) · Advisor: [Prof. YoungSoo Jang](https://www.ysjang.me/)
+
+- Organized an intern textbook study group; completed the planned half of the textbook.
+
+## selected projects
+**BATT-Route: Battery-aware Routing for Mobile LLM Services**<br>
+Mobile Computing · 4-member team · Course research report co-author
+
+- Reviewed and presented three research papers.
+- Team prototype: battery-aware edge–cloud routing; Android, Qwen3-14B, Gemini 2.5 Flash.
+- Evaluation: accuracy, latency, client-side battery cost; ARC-Easy, MMLU, GSM8K.
+
+**K-AI Manufacturing Data Analysis Competition** · 2026
+
+- EDA, external data substitution, feature expansion; improved baseline performance.
 
 ## honors
-**Sep. 2026 · Student Merit Award (Team Award), UNIST**
+**Student Merit Award (Team Award), UNIST** · Sep. 2026<br>
+CSE Student Council contributions.
 
-- Recognized for contributions to the CSE Student Council as a member of CSE Supporters.
+**First Place (5-member team), Student Startup Competition, KAIST** · May 2023
 
-**May 2023 · First Place (5-member team)**<br>
-Student Startup Competition, KAIST
-
-- Proposed U-in (Update Interface) in response to Selectstar’s challenge of extending its data collection and labeling services to deliver actionable customer insights.
-- Presented a platform concept using data analysis and generative AI to support UI/UX improvement.
+- U-in: data-driven UI/UX insights proposal addressing Selectstar’s customer-insight needs.
 - [Presentation slides](https://docs.google.com/presentation/d/1cXm37OX8B42wRRq6S16i2StgV6BaVh9VDfI3NG8HTPo/mobilepresent?slide=id.g247ee34c1d6_5_117)
 
 ## leadership & service
-**Member, CSE Supporters, UNIST**<br>
-Mar. 2026–Present
+**Member, CSE Supporters, UNIST** · Mar. 2026–Present
 
-- Created the first-ever department jacket for Computer Science and Engineering at UNIST.
-- Received a team Student Merit Award for contributions to the CSE Student Council in September 2026.
+- Created UNIST’s first CSE department jacket.
 
 **President, UNIST Startup Bible (USB)**
 
-- Registered USB as a nonprofit organization.
-- Secured KRW 8 million in funding through Ulsan Metropolitan City's 2023 Youth Community Revitalization Program (청년공동체 활성화 사업).
-- Launched “Refresh” (새로고침), USB's first recurring ideathon, in March 2023.
+- Nonprofit registration; KRW 8 million secured through Ulsan’s 2023 Youth Community Revitalization Program.
+- Launched “Refresh” (새로고침), USB’s first recurring ideathon · Mar. 2023.
 
 ## technical skills
-**Languages:** Python, C, C++, Kotlin, SQL, MATLAB<br>
+**Languages:** Python, C/C++, Kotlin, SQL, MATLAB<br>
 **Tools:** Git, Docker, Android Studio, LaTeX
 
 ## military service
-**Sept. 2023–Mar. 2025 · Republic of Korea Army**<br>
-1st Special Forces Brigade (Airborne)<br>
-Completed military service; discharged at the rank of Sergeant.
+**Republic of Korea Army · Sergeant (discharged)** · Sep. 2023–Mar. 2025<br>
+1st Special Forces Brigade (Airborne).
