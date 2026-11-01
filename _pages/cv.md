@@ -39,8 +39,11 @@ Advisor: Prof. YoungSoo Jang (장영수)
 
 - Recognized for contributions to the CSE Student Council as a member of CSE Supporters.
 
-**May 2023 · First Place, Team Award**<br>
+**May 2023 · First Place (5-member team)**<br>
 Student Startup Competition, KAIST
+
+- Proposed U-in (Update Interface), a platform concept using data analysis and generative AI to support UI/UX improvement.
+- [Presentation slides](https://docs.google.com/presentation/d/1cXm37OX8B42wRRq6S16i2StgV6BaVh9VDfI3NG8HTPo/mobilepresent?slide=id.g247ee34c1d6_5_117)
 
 ## leadership & service
 **Member, CSE Supporters, UNIST**<br>
