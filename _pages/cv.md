@@ -9,7 +9,7 @@ nav_order: 2
 ## education
 **UNIST · B.S. in Computer Science and Engineering (in progress)**<br>
 Mar. 2022–Present<br>
-Coursework: Machine Learning (B+), Data Structures (A−), Database Systems (A−), Mobile Computing (A0).<br>
+Coursework: Data Structures (A−), Database Systems (A−), Mobile Computing (A0).<br>
 Currently taking: Deep Learning and Introduction to Data Mining.
 
 ## research interests
