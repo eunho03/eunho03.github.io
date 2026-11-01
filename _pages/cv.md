@@ -35,13 +35,25 @@ Advisor: Prof. YoungSoo Jang (장영수)
 - Encouraged questions and discussion among interns.
 
 ## honors
+**Sep. 2026 · Student Merit Award (Team Award), UNIST**
+
+- Recognized for contributions to the CSE Student Council as a member of CSE Supporters.
+
 **May 2023 · First Place, Team Award**<br>
 Student Startup Competition, KAIST
 
-## leadership
-**President, UNIST Startup Club (USB)**
-- Secured KRW 8 million in funding through support program applications.
-- Organized an on-campus ideathon that became a recurring club activity.
+## leadership & service
+**Member, CSE Supporters, UNIST**<br>
+Mar. 2026–Present
+
+- Created the first-ever department jacket for Computer Science and Engineering at UNIST.
+- Received a team Student Merit Award for contributions to the CSE Student Council in September 2026.
+
+**President, UNIST Startup Bible (USB)**
+
+- Registered USB as a nonprofit organization.
+- Secured KRW 8 million in funding through Ulsan Metropolitan City's 2023 Youth Community Revitalization Program (청년공동체 활성화 사업).
+- Launched “Refresh” (새로고침), USB's first recurring ideathon, in March 2023.
 
 ## technical skills
 **Languages:** Python, C, C++, Kotlin, SQL, MATLAB<br>
