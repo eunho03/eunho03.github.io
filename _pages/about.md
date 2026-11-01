@@ -55,7 +55,7 @@ permalink: /
   <div class="academic-intro">
     <aside class="portrait-column" aria-label="Profile photo and contact links">
       <img src="{{ '/eunho.jpg' | relative_url }}" alt="Portrait of Eun Ho Koh" width="685" height="898">
-      <p class="profile-cv"><a href="{{ "/CV.pdf" | relative_url }}?v=20261102-2">Curriculum Vitae</a></p>
+      <p class="profile-cv"><a href="{{ "/CV.pdf" | relative_url }}?v=20261102-3">Curriculum Vitae</a></p>
       <div class="profile-links">
         <a href="mailto:ehko030715@unist.ac.kr" aria-label="Email Eun Ho Koh" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
         <a href="https://github.com/eunho03" aria-label="Eun Ho Koh on GitHub" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
@@ -64,7 +64,7 @@ permalink: /
     <div class="academic-bio">
       <h1>Eun Ho Koh</h1>
       <p class="affiliation">Computer Science and Engineering · UNIST</p>
-      <p>I am an undergraduate student in Computer Science and Engineering at <a href="https://www.unist.ac.kr/">UNIST</a>. My interests lie in data-driven prediction and efficient AI inference.</p>
+      <p>I am an undergraduate student in Computer Science and Engineering at <a href="https://www.unist.ac.kr/">UNIST</a>. I am interested in how data quality and composition affect model learning and generalization, particularly when deployment conditions differ from training.</p>
 
       <p class="detail"><a href="{{ '/projects/' | relative_url }}">Research &amp; projects</a> · <a href="mailto:ehko030715@unist.ac.kr">Email</a></p>
     </div>
@@ -80,15 +80,15 @@ permalink: /
     <h2 id="experience-heading">research experience</h2>
     <details class="research-peek">
       <summary><span class="peek-date">Jun 2026 – Aug 2026</span><span><strong>Reinforcement Learning</strong><span class="peek-meta">AI-CORE Lab</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
-      <div class="peek-panel"><p><strong>Activity</strong><br>Organized an intern textbook study group and completed the planned half of the textbook.</p><p><a href="https://sites.google.com/view/unist-aicorelab">AI-CORE Lab</a> · <a href="https://www.ysjang.me/">Prof. YoungSoo Jang</a></p></div>
+      <div class="peek-panel"><p><strong>Activity</strong><br>Reviewed reinforcement learning papers in weekly meetings, presented seminars, and led an intern textbook study group.</p><p><a href="https://sites.google.com/view/unist-aicorelab">AI-CORE Lab</a> · <a href="https://www.ysjang.me/">Prof. YoungSoo Jang</a></p></div>
     </details>
     <details class="research-peek">
       <summary><span class="peek-date">Apr 2026 – Oct 2026</span><span><strong>Graph Community Detection</strong><span class="peek-meta">Data Mining Lab · AICP</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
-      <div class="peek-panel"><p><strong>Contribution</strong><br>Participated in graph rewiring research; co-authored the research poster.</p><p><a href="https://sites.google.com/view/dm-unist/home">Data Mining Lab</a> · <a href="https://sites.google.com/view/junghoon-kim">Prof. Junghoon Kim</a><br><a href="https://bts.unist.ac.kr/pgdocument/aicp">Artificial Intelligence Challengers Program</a></p></div>
+      <div class="peek-panel"><p><strong>Research poster co-author</strong><br>Embedding-Based Structure-Preserving Graph Rewiring for Community Detection</p><p><a href="https://sites.google.com/view/dm-unist/home">Data Mining Lab</a> · <a href="https://sites.google.com/view/junghoon-kim">Prof. Junghoon Kim</a><br><a href="https://bts.unist.ac.kr/pgdocument/aicp">Artificial Intelligence Challengers Program</a></p></div>
     </details>
     <details class="research-peek">
       <summary><span class="peek-date">Apr 2026 – Jul 2026</span><span><strong>Insurance Enrollment Prediction</strong><span class="peek-meta">Korea Workers’ Compensation &amp; Welfare Service</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
-      <div class="peek-panel"><p><strong>Contribution</strong><br>Participated in insurance enrollment prediction experiments using employment and labor insurance subscriber data.</p></div>
+      <div class="peek-panel"><p><strong>Role</strong><br>Collaborative Research Participant</p></div>
     </details>
   </section>
 </div>

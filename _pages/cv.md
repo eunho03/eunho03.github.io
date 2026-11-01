@@ -9,8 +9,11 @@ nav_order: 2
 ## education
 **UNIST · B.S. in Computer Science and Engineering (in progress)**<br>
 Mar. 2022–Present<br>
-Selected coursework: Data Structures (A−), Database Systems (A−), Mobile Computing (A0).<br>
+Coursework: Machine Learning (B+), Data Structures (A−), Database Systems (A−), Mobile Computing (A0).<br>
 Currently taking: Deep Learning and Introduction to Data Mining.
+
+## research interests
+Reliable machine learning; data-centric learning and evaluation; generalization under distribution shift.
 
 ## research experience
 **Data Mining Lab · AICP Research Participant** · Apr.–Oct. 2026<br>
@@ -24,42 +27,35 @@ Currently taking: Deep Learning and Introduction to Data Mining.
 **AI-CORE Lab · Reinforcement Learning Research Intern** · Jun.–Aug. 2026<br>
 [Lab](https://sites.google.com/view/unist-aicorelab) · Advisor: [Prof. YoungSoo Jang](https://www.ysjang.me/)
 
-- Reviewed papers in weekly meetings and delivered seminars.
-- Organized an intern textbook study group; completed the planned half of the textbook.
+- Reviewed reinforcement learning papers in weekly meetings and presented seminars.
+- Led an intern textbook study group.
 
 **Korea Workers’ Compensation & Welfare Service** · Apr.–Jul. 2026<br>
-Collaborative research participant
-
-
+Collaborative Research Participant · Insurance Enrollment Prediction
 
 ## projects
 **BATT-Route: Battery-aware Routing for Mobile LLM Services**<br>
 Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report co-author
 
-**Hyundai Motor Group In-Vehicle App Development Challenge** · Oct. 2026–Present<br>
-
-**Deep Learning Course Project** · Sep. 2026–Present<br>
-In progress.
-
-
-
 **[K-AI Manufacturing Data Analysis Competition](https://www.kamp-ai.kr/contestMain)** · Sep.–Oct. 2026
 
-- EDA, external data substitution, feature expansion; improved baseline performance.
+- Used EDA to assess data quality; contributed to baseline improvement through external data and new features.
+
+**Deep Learning Course Project** · Sep. 2026–Present
+
+**[Hyundai Motor Group In-Vehicle App Development Challenge](https://appdevchallenge.auto-hmg.io/)** · Oct. 2026–Present
 
 ## honors
 **Student Merit Award (Team Award), UNIST** · Sep. 2026<br>
-CSE Student Council contributions.
+Team recognition for service through CSE Supporters, the CSE Student Council.
 
 **First Place (5-member team), Student Startup Competition, KAIST** · May 2023
 
-- U-in: data-driven UI/UX insights proposal addressing Selectstar’s customer-insight needs.
-- [Presentation slides](https://docs.google.com/presentation/d/1cXm37OX8B42wRRq6S16i2StgV6BaVh9VDfI3NG8HTPo/mobilepresent?slide=id.g247ee34c1d6_5_117)
+Awarded by the Director of the KAIST Center for Entrepreneurship.<br>
+[Presentation slides](https://docs.google.com/presentation/d/1cXm37OX8B42wRRq6S16i2StgV6BaVh9VDfI3NG8HTPo/mobilepresent?slide=id.g247ee34c1d6_5_117)
 
 ## leadership & service
 **Member, CSE Supporters, UNIST** · Mar. 2026–Present
-
-
 **Member, HeXA Computing Club, UNIST** · Mar.–Jul. 2025
 
 - Designed a campus carpooling service.
@@ -67,9 +63,10 @@ CSE Student Council contributions.
 **President, UNIST Startup Bible (USB)** · Dec. 2022–Sep. 2023<br>
 Joined USB in Apr. 2022.
 
-- KRW 8 million secured through Ulsan’s 2023 Youth Community Revitalization Program.
+- Secured KRW 8 million through Ulsan’s 2023 Youth Community Revitalization Program.
 
 ## technical skills
+**Machine learning:** Supervised learning, model training and evaluation; exploratory data analysis.<br>
 **Languages:** Python, C/C++, SQL, MATLAB<br>
 **Tools:** Docker, Android Studio
 
