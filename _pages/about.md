@@ -91,10 +91,11 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
       </div>
     </div>
     <div class="academic-row">
-      <div class="academic-date">Mobile computing</div>
-      <div><h3>Mobile Sensing and Recognition</h3>
-        <p class="detail">Course projects · Kotlin · Android Studio</p>
-        <ul><li><strong>Implemented two locally running Android applications.</strong></li><li>Built an on-device object recognition app.</li><li>Built an app to predict user activity from real-time IMU sensor data.</li></ul>
+      <div class="academic-date">Mobile Computing</div>
+      <div><h3>BATT-Route: Battery-aware Routing for Mobile LLM Services</h3>
+        <p class="detail">Course research project · 4-member team</p>
+        <ul><li><strong>Reviewed and presented three research papers</strong> and co-authored the team's course research report.</li><li>The team developed a prototype for battery-aware edge–cloud LLM routing and evaluated accuracy, latency, and client-side battery cost.</li></ul>
+        <p><a href="{{ '/projects/' | relative_url }}">Project details</a></p>
       </div>
     </div>
   </section>
