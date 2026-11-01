@@ -28,7 +28,13 @@ Collaborative research participant
 
 - Insurance enrollment prediction using subscriber data.
 
-## selected projects
+## projects
+**Hyundai Motor Group In-Vehicle App Development Challenge** · Oct. 2026–Present<br>
+Preparing a competition entry.
+
+**Deep Learning Course Project** · Sep. 2026–Present<br>
+In progress.
+
 **BATT-Route: Battery-aware Routing for Mobile LLM Services**<br>
 Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report co-author
 
@@ -36,7 +42,7 @@ Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report 
 - Team prototype: battery-aware edge–cloud routing; Android, Qwen3-14B, Gemini 2.5 Flash.
 - Evaluation: accuracy, latency, client-side battery cost; ARC-Easy, MMLU, GSM8K.
 
-**K-AI Manufacturing Data Analysis Competition** · Sep.–Oct. 2026
+**[K-AI Manufacturing Data Analysis Competition](https://www.kamp-ai.kr/contestMain)** · Sep.–Oct. 2026
 
 - EDA, external data substitution, feature expansion; improved baseline performance.
 
@@ -54,6 +60,8 @@ CSE Student Council contributions.
 
 - Created UNIST’s first CSE department jacket.
 
+**Member, HeXA Computing Club, UNIST** · Mar.–Jul. 2025
+
 **President, UNIST Startup Bible (USB)**
 
 - Nonprofit registration; KRW 8 million secured through Ulsan’s 2023 Youth Community Revitalization Program.
@@ -62,6 +70,9 @@ CSE Student Council contributions.
 ## technical skills
 **Languages:** Python, C/C++, Kotlin, SQL, MATLAB<br>
 **Tools:** Git, Docker, Android Studio, LaTeX
+
+## language proficiency
+**English:** G-TELP Level 2: 77 · Sep. 2026
 
 ## military service
 **Republic of Korea Army · Sergeant (discharged)** · Sep. 2023–Mar. 2025<br>
