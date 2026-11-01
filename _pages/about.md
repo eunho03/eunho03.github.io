@@ -10,6 +10,7 @@ permalink: /
 .academic-intro { display: grid; grid-template-columns: 220px minmax(0,1fr); gap: 44px; align-items: start; }
 .portrait-column { margin: 0; }
 .portrait-column img { width: 100%; height: auto; display: block; border-radius: 5px; box-shadow: 0 2px 12px #00000018; }
+.profile-cv { text-align: center; margin: 16px 0 0; font-size: 17px; }
 .profile-links { display: flex; justify-content: center; gap: 20px; margin-top: 18px; }
 .profile-links a { color: var(--global-text-color); font-size: 29px; }
 .academic-bio p { margin: 0 0 20px; }
@@ -54,6 +55,7 @@ permalink: /
   <div class="academic-intro">
     <aside class="portrait-column" aria-label="Profile photo and contact links">
       <img src="{{ '/eunho.jpg' | relative_url }}" alt="Portrait of Eun Ho Koh" width="685" height="898">
+      <p class="profile-cv"><a href="{{ "/CV.pdf" | relative_url }}">Curriculum Vitae</a></p>
       <div class="profile-links">
         <a href="mailto:ehko030715@unist.ac.kr" aria-label="Email Eun Ho Koh" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
         <a href="https://github.com/eunho03" aria-label="Eun Ho Koh on GitHub" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
@@ -64,7 +66,7 @@ permalink: /
       <p class="affiliation">Computer Science and Engineering · UNIST</p>
       <p>I am an undergraduate student in Computer Science and Engineering at <a href="https://www.unist.ac.kr/">UNIST</a>. My interests lie in data-driven prediction and efficient AI inference.</p>
 
-      <p class="detail"><a href="{{ '/projects/' | relative_url }}">Research &amp; projects</a> · <a href="{{ '/cv/' | relative_url }}">CV</a> · <a href="mailto:ehko030715@unist.ac.kr">Email</a></p>
+      <p class="detail"><a href="{{ '/projects/' | relative_url }}">Research &amp; projects</a> · <a href="mailto:ehko030715@unist.ac.kr">Email</a></p>
     </div>
   </div>
   <section class="academic-section" aria-labelledby="education-heading">
@@ -75,7 +77,7 @@ permalink: /
     </div>
   </section>
   <section class="academic-section" aria-labelledby="experience-heading">
-    <h2 id="experience-heading">selected research experience</h2>
+    <h2 id="experience-heading">research experience</h2>
     <details class="research-peek">
       <summary><span class="peek-date">Jun 2026 – Aug 2026</span><span><strong>Reinforcement Learning</strong><span class="peek-meta">AI-CORE Lab</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
       <div class="peek-panel"><p><strong>Activity</strong><br>Organized an intern textbook study group and completed the planned half of the textbook.</p><p><a href="https://sites.google.com/view/unist-aicorelab">AI-CORE Lab</a> · <a href="https://www.ysjang.me/">Prof. YoungSoo Jang</a></p></div>
