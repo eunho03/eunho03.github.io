@@ -33,13 +33,17 @@ Reliable machine learning; data-centric learning and evaluation; generalization 
 **Korea Workers’ Compensation & Welfare Service** · Apr.–Jul. 2026<br>
 Collaborative Research Participant · Insurance Enrollment Prediction
 
+- Conducted exploratory data analysis and geocoded enrolled businesses’ addresses using the Kakao API to visualize their spatial distribution.
+
 ## projects
 **BATT-Route: Battery-aware Routing for Mobile LLM Services**<br>
 Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report co-author
 
+- Proposed battery-aware edge-cloud LLM routing and designed its evaluation, defining baselines and metrics and investigating benchmark datasets.
+
 **[K-AI Manufacturing Data Analysis Competition](https://www.kamp-ai.kr/contestMain)** · Sep.–Oct. 2026
 
-- Used EDA to assess data quality; contributed to baseline improvement through external data and new features.
+- Identified duplicated power-use patterns, integrated weather and holiday data, and screened ~100 candidate features using a random forest with SHAP and permutation importance.
 
 **Deep Learning Course Project** · Sep. 2026–Present
 

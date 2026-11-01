@@ -55,7 +55,7 @@ permalink: /
   <div class="academic-intro">
     <aside class="portrait-column" aria-label="Profile photo and contact links">
       <img src="{{ '/eunho.jpg' | relative_url }}" alt="Portrait of Eun Ho Koh" width="685" height="898">
-      <p class="profile-cv"><a href="{{ "/CV.pdf" | relative_url }}?v=20261102-3">Curriculum Vitae</a></p>
+      <p class="profile-cv"><a href="{{ "/CV.pdf" | relative_url }}?v=20261102-4">Curriculum Vitae</a></p>
       <div class="profile-links">
         <a href="mailto:ehko030715@unist.ac.kr" aria-label="Email Eun Ho Koh" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
         <a href="https://github.com/eunho03" aria-label="Eun Ho Koh on GitHub" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
@@ -88,7 +88,7 @@ permalink: /
     </details>
     <details class="research-peek">
       <summary><span class="peek-date">Apr 2026 – Jul 2026</span><span><strong>Insurance Enrollment Prediction</strong><span class="peek-meta">Korea Workers’ Compensation &amp; Welfare Service</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
-      <div class="peek-panel"><p><strong>Role</strong><br>Collaborative Research Participant</p></div>
+      <div class="peek-panel"><p><strong>Role</strong><br>Collaborative Research Participant</p><p>Conducted exploratory data analysis and geocoded enrolled businesses’ addresses using the Kakao API to visualize their spatial distribution.</p></div>
     </details>
   </section>
 </div>
