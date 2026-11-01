@@ -7,30 +7,37 @@ nav_order: 1
 ---
 
 ## BATT-Route: Battery-aware Routing for Mobile LLM Services
-**Mobile Computing · 4-member team · Course research project**
-
-- Reviewed and presented three research papers; co-authored the team report.
-- Team prototype: an Android client routes queries to a Qwen3-14B edge backend or Gemini 2.5 Flash cloud backend based on battery state and query characteristics.
-- Three routing modes: Performance, Balanced, and Power-saving.
-- Benchmarks: ARC-Easy, MMLU, GSM8K. Metrics: accuracy, latency, client-side battery cost, and cloud selection rate.
-- In the team's prototype evaluation, Balanced mode reduced average client-side battery cost by 32.9% versus Always Cloud, with 76.4% accuracy and 33.3% cloud selection.
-
-The LLM runs on the edge or cloud backend, not on the phone. Results reflect a limited-scale, rule-based prototype evaluation. This work is a course research report.
-
-### Additional Mobile Computing Assignments
-**Kotlin · Android Studio**
-
-- On-device object recognition app.
-- Real-time IMU-based user activity prediction app.
+<p class="project-meta">Mobile Computing · Four-person team · Course research report</p>
+<dl class="research-facts">
+<dt>Research question</dt>
+<dd>How can a mobile LLM service balance accuracy, response latency, and client-side battery cost when routing requests between edge and cloud backends?</dd>
+<dt>My contribution</dt>
+<dd>Reviewed and presented three research papers; co-authored the team report.</dd>
+<dt>Team approach</dt>
+<dd>An Android client routes requests to Qwen3-14B on an edge backend or Gemini 2.5 Flash in the cloud. A rule-based policy selects Performance, Balanced, or Power-saving mode using battery state and query characteristics.</dd>
+<dt>Evaluation &amp; outcome</dt>
+<dd>Tested on ARC-Easy, MMLU, and GSM8K. In the team's prototype evaluation, Balanced mode reduced average client-side battery cost by 32.9% relative to Always Cloud, with 76.4% accuracy and 33.3% cloud selection. The measurements concern client-side request costs, with inference running on the backends. Results are from a limited-scale course study.</dd>
+</dl>
 
 ## Manufacturing Data Analysis
-**K-AI Manufacturing Data Analysis Competition · 2026**
+<p class="project-meta">K-AI Manufacturing Data Analysis Competition · 2026</p>
+<dl class="research-facts">
+<dt>Problem</dt>
+<dd>Identify data-quality issues and improve baseline prediction performance.</dd>
+<dt>My contribution</dt>
+<dd>Examined data quality through EDA, replaced low-quality data with external data, and expanded the feature set.</dd>
+<dt>Outcome</dt>
+<dd>Contributed to improving the team's baseline performance.</dd>
+</dl>
 
-Examined data quality through exploratory data analysis. Contributed to improving baseline performance by replacing low-quality data with external data and expanding the feature set.
+## Additional coursework
 
-## Router Implementation
-**Course project · Computer Networks, UNIST**
+**Mobile Computing · Kotlin, Android Studio**
 
-Implemented a router in C in a Docker-based course environment, studying packet forwarding and network behavior.
+- Implemented a locally running object recognition app.
+- Implemented a real-time IMU-based user activity prediction app.
 
-**Tools:** C, Docker
+**Computer Networks · C, Docker**
+
+- Implemented a router in a Docker-based course environment.
+- Studied packet forwarding and network behavior.
