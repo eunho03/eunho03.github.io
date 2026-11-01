@@ -9,28 +9,31 @@ nav_order: 2
 ## education
 **UNIST · B.S. in Computer Science and Engineering (in progress)**<br>
 Mar. 2022–Present<br>
-Selected coursework: Data Structures (A−), Database Systems (A−), Mobile Computing (A0).
+Selected coursework: Data Structures (A−), Database Systems (A−), Mobile Computing (A0).<br>
+Currently taking: Deep Learning and Introduction to Data Mining.
 
 ## research experience
 **Data Mining Lab · AICP Research Participant** · Apr.–Oct. 2026<br>
 [Lab](https://sites.google.com/view/dm-unist/home) · Advisor: [Prof. Junghoon Kim](https://sites.google.com/view/junghoon-kim)<br>
 [Artificial Intelligence Challengers Program](https://bts.unist.ac.kr/pgdocument/aicp)
 
-- Graph rewiring for community detection; research poster co-author.
+*Embedding-Based Structure-Preserving Graph Rewiring for Community Detection*
+
+- Research poster co-author.
 
 **AI-CORE Lab · Reinforcement Learning Research Intern** · Jun.–Aug. 2026<br>
 [Lab](https://sites.google.com/view/unist-aicorelab) · Advisor: [Prof. YoungSoo Jang](https://www.ysjang.me/)
 
+- Reviewed papers in weekly meetings and delivered seminars.
 - Organized an intern textbook study group; completed the planned half of the textbook.
 
 **Korea Workers’ Compensation & Welfare Service** · Apr.–Jul. 2026<br>
 Collaborative research participant
 
-- Insurance enrollment prediction using subscriber data.
+
 
 ## projects
 **Hyundai Motor Group In-Vehicle App Development Challenge** · Oct. 2026–Present<br>
-Preparing a competition entry.
 
 **Deep Learning Course Project** · Sep. 2026–Present<br>
 In progress.
