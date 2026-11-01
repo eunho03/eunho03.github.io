@@ -122,7 +122,7 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
     </div>
     <div class="academic-row">
       <div class="academic-date">May 2023</div>
-      <div><h3>First Place, Team Award · KAIST</h3><p>Student Startup Competition</p></div>
+      <div><h3>First Place (5-member team) · KAIST</h3><p>Student Startup Competition</p><ul><li><strong>Proposed U-in (Update Interface)</strong>, a platform concept using data analysis and generative AI to support UI/UX improvement.</li></ul><p><a href="https://docs.google.com/presentation/d/1cXm37OX8B42wRRq6S16i2StgV6BaVh9VDfI3NG8HTPo/mobilepresent?slide=id.g247ee34c1d6_5_117">Presentation slides</a></p></div>
     </div>
   </section>
 </div>
