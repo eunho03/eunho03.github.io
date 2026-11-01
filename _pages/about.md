@@ -50,6 +50,7 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
       <p>Hello! I am an undergraduate student in Computer Science and Engineering at <a href="https://www.unist.ac.kr/">Ulsan National Institute of Science and Technology (UNIST)</a>.</p>
       <p>My interests include data-driven modeling and prediction, efficient LLM inference, and LLM-based agent systems. Through coursework and project work, I have explored data analysis, mobile applications, and machine learning.</p>
       <p>I enjoy identifying problems in real-world data and connecting analysis with working software. I was a reinforcement learning research intern at AI-CORE Lab with Prof. YoungSoo Jang (장영수).</p>
+      <p>Beyond research, I served as president of UNIST Startup Bible (USB), formalizing its nonprofit status, securing KRW 8 million in public funding, and launching “Refresh,” the organization’s first recurring ideathon. I currently serve as a member of CSE Supporters.</p>
       <p>You can find more about my work in <a href="{{ '/projects/' | relative_url }}">projects</a> and my <a href="{{ '/cv/' | relative_url }}">CV</a>. The best way to reach me is by <a href="mailto:ehko030715@unist.ac.kr">email</a>.</p>
     </div>
   </div>
@@ -96,6 +97,32 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
         <p class="detail">Course projects · Kotlin · Android Studio</p>
         <ul><li><strong>Implemented two locally running Android applications.</strong></li><li>Built an on-device object recognition app.</li><li>Built an app to predict user activity from real-time IMU sensor data.</li></ul>
       </div>
+    </div>
+  </section>
+  <section class="academic-section" aria-labelledby="leadership-heading">
+    <h2 id="leadership-heading">leadership &amp; service</h2>
+    <div class="academic-row">
+      <div class="academic-date">Mar 2026 – present</div>
+      <div><h3>Member, CSE Supporters · UNIST</h3>
+        <ul><li><strong>Created the first-ever department jacket</strong> for Computer Science and Engineering at UNIST.</li><li>Received a team Student Merit Award for contributions to the CSE Student Council in September 2026.</li></ul>
+      </div>
+    </div>
+    <div class="academic-row">
+      <div class="academic-date">Student entrepreneurship</div>
+      <div><h3>President, UNIST Startup Bible (USB)</h3>
+        <ul><li><strong>Registered USB as a nonprofit organization.</strong></li><li><strong>Secured KRW 8 million in funding</strong> through Ulsan Metropolitan City's 2023 Youth Community Revitalization Program (청년공동체 활성화 사업).</li><li><strong>Launched “Refresh” (새로고침)</strong>, USB's first recurring ideathon, in March 2023.</li></ul>
+      </div>
+    </div>
+  </section>
+  <section class="academic-section" aria-labelledby="honors-heading">
+    <h2 id="honors-heading">honors</h2>
+    <div class="academic-row">
+      <div class="academic-date">Sep 2026</div>
+      <div><h3>Student Merit Award (Team Award) · UNIST</h3><p>Recognized for contributions to the CSE Student Council as a member of CSE Supporters.</p></div>
+    </div>
+    <div class="academic-row">
+      <div class="academic-date">May 2023</div>
+      <div><h3>First Place, Team Award · KAIST</h3><p>Student Startup Competition</p></div>
     </div>
   </section>
 </div>
