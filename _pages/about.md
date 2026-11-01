@@ -22,6 +22,8 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
 .academic-row { display: grid; grid-template-columns: 255px minmax(0,1fr); gap: 48px; margin-bottom: 27px; }
 .academic-date { font-size: 15px; font-weight: 600; padding-top: 3px; }
 .academic-row p { margin-bottom: 4px; }
+.academic-row ul { padding-left: 20px; margin: 12px 0 0; }
+.academic-row li { margin-bottom: 6px; }
 .academic-row h3 { font-size: 19px; font-weight: 500; margin: 0 0 7px; }
 .academic-row .detail { font-size: 15px; color: var(--global-text-color-light); }
 @media(max-width: 700px) {
@@ -47,7 +49,7 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
       <p class="affiliation">Computer Science and Engineering · UNIST</p>
       <p>Hello! I am an undergraduate student in Computer Science and Engineering at <a href="https://www.unist.ac.kr/">Ulsan National Institute of Science and Technology (UNIST)</a>.</p>
       <p>My interests include data-driven modeling and prediction, efficient LLM inference, and LLM-based agent systems. Through coursework and project work, I have explored data analysis, mobile applications, and machine learning.</p>
-      <p>I enjoy identifying problems in real-world data and connecting analysis with working software. During a reinforcement learning research internship, I also organized a textbook study group to learn together with fellow interns.</p>
+      <p>I enjoy identifying problems in real-world data and connecting analysis with working software. I was a reinforcement learning research intern at AI-CORE Lab with Prof. YoungSoo Jang (장영수).</p>
       <p>You can find more about my work in <a href="{{ '/projects/' | relative_url }}">projects</a> and my <a href="{{ '/cv/' | relative_url }}">CV</a>. The best way to reach me is by <a href="mailto:ehko030715@unist.ac.kr">email</a>.</p>
     </div>
   </div>
@@ -55,22 +57,31 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
     <h2 id="education-heading">education</h2>
     <div class="academic-row">
       <div class="academic-date">Mar 2022 – present</div>
-      <div><h3><a href="https://www.unist.ac.kr/">UNIST</a></h3><p>B.S. in Computer Science and Engineering, in progress</p><p class="detail">GPA: 3.37 / 4.3</p></div>
+      <div><h3><a href="https://www.unist.ac.kr/">UNIST</a></h3><p>B.S. in Computer Science and Engineering, in progress</p></div>
     </div>
   </section>
   <section class="academic-section" aria-labelledby="experience-heading">
     <h2 id="experience-heading">selected experience</h2>
     <div class="academic-row">
-      <div class="academic-date">Mobile computing</div>
-      <div><h3>Mobile Sensing and Recognition</h3><p>Implemented locally running Android applications for object recognition and IMU sensor-based activity prediction.</p><p class="detail">Kotlin · Android Studio</p></div>
+      <div class="academic-date">Research internship</div>
+      <div><h3>Reinforcement Learning Research Intern · AI-CORE Lab</h3>
+        <p class="detail">Advisor: Prof. YoungSoo Jang (장영수)</p>
+        <ul><li><strong>Led a reinforcement learning textbook study group</strong> to support fellow interns' learning.</li><li>Completed the planned half of the textbook over the summer.</li><li>Encouraged questions and discussion among interns.</li></ul>
+      </div>
     </div>
     <div class="academic-row">
       <div class="academic-date">Data analysis · 2026</div>
-      <div><h3>Manufacturing Data Analysis</h3><p>Examined data quality through exploratory data analysis and contributed to baseline improvements using external data and additional features.</p><p class="detail">K-AI Manufacturing Data Analysis Competition</p></div>
+      <div><h3>Manufacturing Data Analysis</h3>
+        <p class="detail">K-AI Manufacturing Data Analysis Competition</p>
+        <ul><li><strong>Contributed to improving baseline performance</strong> through data and feature refinement.</li><li>Assessed data quality using exploratory data analysis (EDA).</li><li>Replaced low-quality data with external data and expanded the feature set.</li></ul>
+      </div>
     </div>
     <div class="academic-row">
-      <div class="academic-date">Research internship</div>
-      <div><h3>Reinforcement Learning Study Group</h3><p>Organized a textbook study group with fellow interns and completed the planned half of the textbook over the summer.</p></div>
+      <div class="academic-date">Mobile computing</div>
+      <div><h3>Mobile Sensing and Recognition</h3>
+        <p class="detail">Course projects · Kotlin · Android Studio</p>
+        <ul><li><strong>Implemented two locally running Android applications.</strong></li><li>Built an on-device object recognition app.</li><li>Built an app to predict user activity from real-time IMU sensor data.</li></ul>
+      </div>
     </div>
   </section>
 </div>
