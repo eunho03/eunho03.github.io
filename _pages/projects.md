@@ -6,12 +6,22 @@ nav: true
 nav_order: 1
 ---
 
-## Mobile Sensing and Recognition
-**Course project · Mobile Computing, UNIST**
+## BATT-Route: Battery-aware Routing for Mobile LLM Services
+**Mobile Computing · 4-member team · Course research project**
 
-Implemented locally running Android applications for object recognition and user activity prediction from real-time IMU sensor data.
+- Reviewed and presented three research papers; co-authored the team report.
+- Team prototype: an Android client routes queries to a Qwen3-14B edge backend or Gemini 2.5 Flash cloud backend based on battery state and query characteristics.
+- Three routing modes: Performance, Balanced, and Power-saving.
+- Benchmarks: ARC-Easy, MMLU, GSM8K. Metrics: accuracy, latency, client-side battery cost, and cloud selection rate.
+- In the team's prototype evaluation, Balanced mode reduced average client-side battery cost by 32.9% versus Always Cloud, with 76.4% accuracy and 33.3% cloud selection.
 
-**Tools:** Kotlin, Android Studio
+The LLM runs on the edge or cloud backend, not on the phone. Results reflect a limited-scale, rule-based prototype evaluation. This work is a course research report.
+
+### Additional Mobile Computing Assignments
+**Kotlin · Android Studio**
+
+- On-device object recognition app.
+- Real-time IMU-based user activity prediction app.
 
 ## Manufacturing Data Analysis
 **K-AI Manufacturing Data Analysis Competition · 2026**
