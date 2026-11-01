@@ -58,18 +58,16 @@ CSE Student Council contributions.
 ## leadership & service
 **Member, CSE Supporters, UNIST** · Mar. 2026–Present
 
-- Created UNIST’s first CSE department jacket.
 
 **Member, HeXA Computing Club, UNIST** · Mar.–Jul. 2025
 
 **President, UNIST Startup Bible (USB)**
 
-- Nonprofit registration; KRW 8 million secured through Ulsan’s 2023 Youth Community Revitalization Program.
-- Launched “Refresh” (새로고침), USB’s first recurring ideathon · Mar. 2023.
+- KRW 8 million secured through Ulsan’s 2023 Youth Community Revitalization Program.
 
 ## technical skills
-**Languages:** Python, C/C++, Kotlin, SQL, MATLAB<br>
-**Tools:** Git, Docker, Android Studio, LaTeX
+**Languages:** Python, C/C++, SQL, MATLAB<br>
+**Tools:** Docker, Android Studio
 
 ## language proficiency
 **English:** G-TELP Level 2: 77 · Sep. 2026
