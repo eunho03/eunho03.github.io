@@ -4,13 +4,10 @@ title:
 permalink: /
 ---
 <style>
-:root { --global-theme-color: #2455b3; }
-html[data-theme='dark'] { --global-theme-color: #86b3ff; }
-.container { max-width: 1100px; }
 .post-header:has(.post-title:empty) { display: none; }
 .academic-home { padding: 22px 0 36px; font-size: 17px; line-height: 1.65; }
-.academic-home h1 { font-size: 44px; font-weight: 400; margin: 0 0 25px; letter-spacing: -1px; }
-.academic-intro { display: grid; grid-template-columns: 255px minmax(0,1fr); gap: 48px; align-items: start; }
+.academic-home h1 { font-size: 40px; font-weight: 400; margin: 0 0 25px; letter-spacing: -1px; }
+.academic-intro { display: grid; grid-template-columns: 220px minmax(0,1fr); gap: 44px; align-items: start; }
 .portrait-column { margin: 0; }
 .portrait-column img { width: 100%; height: auto; display: block; border-radius: 5px; box-shadow: 0 2px 12px #00000018; }
 .profile-links { display: flex; justify-content: center; gap: 20px; margin-top: 18px; }
@@ -18,8 +15,8 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
 .academic-bio p { margin: 0 0 20px; }
 .academic-bio .affiliation { margin-top: -15px; margin-bottom: 27px; color: var(--global-text-color-light); font-size: 15px; }
 .academic-section { margin-top: 60px; }
-.academic-section h2 { font-size: 32px; font-weight: 400; margin-bottom: 28px; }
-.academic-row { display: grid; grid-template-columns: 255px minmax(0,1fr); gap: 48px; margin-bottom: 27px; }
+.academic-section h2 { font-size: 25px; font-weight: 400; margin-bottom: 28px; }
+.academic-row { display: grid; grid-template-columns: 220px minmax(0,1fr); gap: 44px; margin-bottom: 27px; }
 .academic-date { font-size: 15px; font-weight: 600; padding-top: 3px; }
 .academic-row p { margin-bottom: 4px; }
 .academic-row ul { padding-left: 20px; margin: 12px 0 0; }
@@ -47,10 +44,9 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
     <div class="academic-bio">
       <h1>Eun Ho Koh</h1>
       <p class="affiliation">Computer Science and Engineering · UNIST</p>
-      <p>Hello! I am an undergraduate student in Computer Science and Engineering at <a href="https://www.unist.ac.kr/">Ulsan National Institute of Science and Technology (UNIST)</a>.</p>
-      <p>My interests include data-driven modeling and prediction, efficient LLM inference, and LLM-based agent systems. Through coursework and project work, I have explored data analysis, mobile applications, and machine learning.</p>
-      <p>I enjoy identifying problems in real-world data and connecting analysis with working software. I was a reinforcement learning research intern at <a href="https://sites.google.com/view/unist-aicorelab">AI-CORE Lab</a> with <a href="https://www.ysjang.me/">Prof. YoungSoo Jang (장영수)</a>.</p>
-      <p>You can find more about my work in <a href="{{ '/projects/' | relative_url }}">projects</a> and my <a href="{{ '/cv/' | relative_url }}">CV</a>. The best way to reach me is by <a href="mailto:ehko030715@unist.ac.kr">email</a>.</p>
+      <p>I am an undergraduate student in Computer Science and Engineering at <a href="https://www.unist.ac.kr/">UNIST</a>. My interests lie in data-driven prediction and efficient AI inference.</p>
+      <p>My experience includes graph community detection research at the <a href="https://sites.google.com/view/dm-unist/home">Data Mining Lab</a>, insurance enrollment prediction, and a course research project on battery-aware mobile LLM routing. I previously interned at <a href="https://sites.google.com/view/unist-aicorelab">AI-CORE Lab</a>, advised by <a href="https://www.ysjang.me/">Prof. YoungSoo Jang</a>.</p>
+      <p class="detail"><a href="{{ '/projects/' | relative_url }}">Research &amp; projects</a> · <a href="{{ '/cv/' | relative_url }}">CV</a> · <a href="mailto:ehko030715@unist.ac.kr">Email</a></p>
     </div>
   </div>
   <section class="academic-section" aria-labelledby="education-heading">
@@ -66,21 +62,21 @@ html[data-theme='dark'] { --global-theme-color: #86b3ff; }
       <div class="academic-date">Apr – Oct 2026</div>
       <div><h3>Graph Community Detection Research · <a href="https://sites.google.com/view/dm-unist/home">Data Mining Lab</a></h3>
         <p class="detail">Advisor: <a href="https://sites.google.com/view/junghoon-kim">Prof. Junghoon Kim</a> · UNIST<br><a href="https://edu.unist.ac.kr/aicp/">Artificial Intelligence Challengers Program (AICP)</a></p>
-        <ul><li><strong>Participated in team research on structure-preserving graph rewiring</strong> for community detection; co-authored the research poster.</li><li>The team's SPACE method combines embedding similarity and local structural similarity to redirect edges while preserving the edge count.</li><li>The study evaluated community detection using Louvain and Leiden, with ARI and modularity as evaluation metrics.</li></ul>
+        <ul><li><strong>Participated in team research on structure-preserving graph rewiring</strong> for community detection; co-authored the research poster.</li></ul>
       </div>
     </div>
     <div class="academic-row">
       <div class="academic-date">Apr – Jul 2026</div>
       <div><h3>Insurance Enrollment Prediction · Collaborative Research</h3>
         <p class="detail">Korea Workers' Compensation &amp; Welfare Service (근로복지공단)</p>
-        <ul><li><strong>Participated in experiments to predict enrollment in a specific insurance product</strong> using employment and labor insurance subscriber data.</li><li>Joined this paid, related research project in recognition of my participation in AICP research.</li></ul>
+        <ul><li><strong>Participated in experiments to predict enrollment in a specific insurance product</strong> using employment and labor insurance subscriber data.</li></ul>
       </div>
     </div>
     <div class="academic-row">
       <div class="academic-date">Research internship</div>
       <div><h3>Reinforcement Learning Research Intern · <a href="https://sites.google.com/view/unist-aicorelab">AI-CORE Lab</a></h3>
         <p class="detail">Advisor: <a href="https://www.ysjang.me/">Prof. YoungSoo Jang (장영수)</a></p>
-        <ul><li><strong>Led a reinforcement learning textbook study group</strong> to support fellow interns' learning.</li><li>Completed the planned half of the textbook over the summer.</li><li>Encouraged questions and discussion among interns.</li></ul>
+        <ul><li><strong>Led a reinforcement learning textbook study group</strong> to support fellow interns' learning.</li><li>Completed the planned half of the textbook over the summer.</li></ul>
       </div>
     </div>
     <div class="academic-row">
