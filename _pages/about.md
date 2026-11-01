@@ -77,7 +77,7 @@ permalink: /
     <h2 id="experience-heading">research &amp; academic experience</h2>
     <details class="research-peek">
       <summary><span class="peek-date">Apr – Oct 2026</span><span><strong>Graph Community Detection</strong><span class="peek-meta">Data Mining Lab · AICP</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
-      <div class="peek-panel"><p><strong>Contribution</strong><br>Participated in graph rewiring research; co-authored the research poster.</p><p><a href="https://sites.google.com/view/dm-unist/home">Data Mining Lab</a> · <a href="https://sites.google.com/view/junghoon-kim">Prof. Junghoon Kim</a><br><a href="https://edu.unist.ac.kr/aicp/">Artificial Intelligence Challengers Program</a></p></div>
+      <div class="peek-panel"><p><strong>Contribution</strong><br>Participated in graph rewiring research; co-authored the research poster.</p><p><a href="https://sites.google.com/view/dm-unist/home">Data Mining Lab</a> · <a href="https://sites.google.com/view/junghoon-kim">Prof. Junghoon Kim</a><br><a href="https://bts.unist.ac.kr/pgdocument/aicp">Artificial Intelligence Challengers Program</a></p></div>
     </details>
     <details class="research-peek">
       <summary><span class="peek-date">Apr – Jul 2026</span><span><strong>Insurance Enrollment Prediction</strong><span class="peek-meta">Korea Workers’ Compensation &amp; Welfare Service</span></span><span class="peek-plus" aria-hidden="true">+</span></summary>
