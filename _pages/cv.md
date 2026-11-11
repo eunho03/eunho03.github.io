@@ -6,6 +6,13 @@ nav: true
 nav_order: 2
 ---
 
+# Eunho Koh
+
+Undergraduate, Computer Science and Engineering<br>
+Ulsan National Institute of Science and Technology (UNIST)<br>
+[ehko030715@unist.ac.kr](mailto:ehko030715@unist.ac.kr)<br>
+[Website](https://eunho03.github.io/) · [GitHub](https://github.com/eunho03)
+
 ## education
 **UNIST · B.S. in Computer Science and Engineering (in progress)**<br>
 Mar. 2022–Present<br>
@@ -39,16 +46,17 @@ Collaborative Research Participant · Insurance Enrollment Prediction
 **BATT-Route: Battery-aware Routing for Mobile LLM Services**<br>
 Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report co-author
 
-- Proposed battery-aware edge-cloud LLM routing and designed its evaluation, defining baselines and metrics and investigating benchmark datasets.
+- Proposed battery-aware edge-cloud LLM routing and implemented the routing algorithm using battery level and query characteristics; selected evaluation datasets and established baselines.
 
 **[K-AI Manufacturing Data Analysis Competition](https://www.kamp-ai.kr/contestMain)**<br>Sep.–Oct. 2026 · 3-member team · EDA & feature engineering
 
 - Performed exploratory data analysis and feature engineering, identifying duplicated power-use patterns, integrating weather and holiday data, and screening ~100 candidate features using a random forest with SHAP and permutation importance.
 
 **K-SHIFT: Fine-Grained Diagnostic Testing of Korean NLI under Semantic Shifts**<br>
-Sep. 2026–Present · Deep Learning · 2-member team · Course research project
+Sep. 2026–Present · Deep Learning · 2-member team · Proposal stage
 
-- Research question: Can Korean NLI models reliably distinguish entailment, contradiction, and neutrality when small linguistic changes alter sentence meaning?
+- Formulated the research question and reviewed prior work for a diagnostic evaluation of Korean NLI models under changes in negation, quantity, and conditional expressions.
+- Planned responsibility: experimental design; implementation and experiments will be conducted by a teammate.
 
 ## honors
 **Student Merit Award (Team Award), UNIST** · Sep. 2026<br>
