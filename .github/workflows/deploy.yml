@@ -58,7 +58,7 @@ jobs:
       
       - name: Generate CV PDF
         run: |
-          sudo apt-get install -y pandoc texlive-xetex fonts-noto-cjk
+          sudo apt-get install -y pandoc texlive-xetex texlive-lang-cjk fonts-noto-cjk
 
           python3 - <<'PY'
           from pathlib import Path
