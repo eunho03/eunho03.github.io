@@ -13,7 +13,7 @@ Coursework: Data Structures (A−), Database Systems (A−), Mobile Computing (A
 Currently taking: Deep Learning and Introduction to Data Mining.
 
 ## research interests
-Reliable machine learning; data-centric learning and evaluation; generalization under distribution shift.
+Human-Computer Interaction (HCI); Human-Centered AI; AI Evaluation; Reliable Machine Learning; Distribution Shift.
 
 ## research experience
 **Data Mining Lab · AICP Research Participant** · Apr.–Oct. 2026<br>
@@ -27,8 +27,8 @@ Reliable machine learning; data-centric learning and evaluation; generalization 
 **AI-CORE Lab · Reinforcement Learning Research Intern** · Jun.–Aug. 2026<br>
 [Lab](https://sites.google.com/view/unist-aicorelab) · Advisor: [Prof. YoungSoo Jang](https://www.ysjang.me/)
 
-- Reviewed reinforcement learning papers in weekly meetings and presented seminars.
-- Led an intern textbook study group.
+- Reviewed research papers on offline reinforcement learning, including conservative value estimation and distribution correction.
+- Presented research seminars and led a textbook study group on reinforcement learning fundamentals.
 
 **Korea Workers’ Compensation & Welfare Service** · Apr.–Jul. 2026<br>
 Collaborative Research Participant · Insurance Enrollment Prediction
@@ -45,9 +45,10 @@ Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report 
 
 - Identified duplicated power-use patterns, integrated weather and holiday data, and screened ~100 candidate features using a random forest with SHAP and permutation importance.
 
-**Deep Learning Course Project** · Sep. 2026–Present
+**K-SHIFT: Fine-Grained Diagnostic Testing of Korean NLI under Semantic Shifts**<br>
+Deep Learning Course Project, UNIST · Sep. 2026–Present
 
-**[Hyundai Motor Group In-Vehicle App Development Challenge](https://appdevchallenge.auto-hmg.io/)** · Oct. 2026–Present
+**Research Question:** Can Korean NLI models reliably distinguish entailment, contradiction, and neutrality when small linguistic changes alter sentence meaning?
 
 ## honors
 **Student Merit Award (Team Award), UNIST** · Sep. 2026<br>
