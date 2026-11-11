@@ -75,6 +75,13 @@ jobs:
               r"<br\s*/?>", "\n\n", content
           )
 
+          # Keep the manufacturing project title and description on the same page.
+          content = content.replace(
+              "**[K-AI Manufacturing Data Analysis Competition]",
+              "\\newpage\n\n**[K-AI Manufacturing Data Analysis Competition]",
+              1,
+          )
+
           Path("/tmp/cv-content.md").write_text(content)
           PY
 
