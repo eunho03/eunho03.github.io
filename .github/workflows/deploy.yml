@@ -55,6 +55,38 @@ jobs:
           sudo apt-get install -y imagemagick
           pip install nbconvert
           JEKYLL_ENV=production bundle exec jekyll build
+      
+      - name: Generate CV PDF
+        run: |
+          sudo apt-get install -y pandoc texlive-xetex fonts-noto-cjk
+
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          content = Path("_pages/cv.md").read_text()
+          content = re.sub(
+              r"\A---\s*\n.*?\n---\s*\n",
+              "",
+              content,
+              flags=re.S
+          )
+          content = re.sub(
+              r"<br\s*/?>", "\n\n", content
+          )
+
+          Path("/tmp/cv-content.md").write_text(content)
+          PY
+
+          mkdir -p _site
+
+          pandoc /tmp/cv-content.md \
+            -o _site/CV.pdf \
+            --pdf-engine=xelatex \
+            -V geometry:margin=0.7in \
+            -V mainfont="DejaVu Serif" \
+            -V CJKmainfont="Noto Sans CJK KR"
+
       - name: Publish built site
         uses: JamesIves/github-pages-deploy-action@v4
         with:
