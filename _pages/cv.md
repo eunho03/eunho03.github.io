@@ -41,14 +41,14 @@ Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report 
 
 - Proposed battery-aware edge-cloud LLM routing and designed its evaluation, defining baselines and metrics and investigating benchmark datasets.
 
-**[K-AI Manufacturing Data Analysis Competition](https://www.kamp-ai.kr/contestMain)** · Sep.–Oct. 2026
+**[K-AI Manufacturing Data Analysis Competition](https://www.kamp-ai.kr/contestMain)**<br>Sep.–Oct. 2026 · 3-member team · EDA & feature engineering
 
-- Identified duplicated power-use patterns, integrated weather and holiday data, and screened ~100 candidate features using a random forest with SHAP and permutation importance.
+- Performed exploratory data analysis and feature engineering, identifying duplicated power-use patterns, integrating weather and holiday data, and screening ~100 candidate features using a random forest with SHAP and permutation importance.
 
 **K-SHIFT: Fine-Grained Diagnostic Testing of Korean NLI under Semantic Shifts**<br>
 Sep. 2026–Present · Deep Learning · 2-member team · Course research project
 
-- **Research question:** Can Korean NLI models reliably distinguish entailment, contradiction, and neutrality when small linguistic changes alter sentence meaning?
+- Research question: Can Korean NLI models reliably distinguish entailment, contradiction, and neutrality when small linguistic changes alter sentence meaning?
 
 ## honors
 **Student Merit Award (Team Award), UNIST** · Sep. 2026<br>
