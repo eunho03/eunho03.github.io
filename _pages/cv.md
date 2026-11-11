@@ -46,9 +46,9 @@ Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report 
 - Identified duplicated power-use patterns, integrated weather and holiday data, and screened ~100 candidate features using a random forest with SHAP and permutation importance.
 
 **K-SHIFT: Fine-Grained Diagnostic Testing of Korean NLI under Semantic Shifts**<br>
-Deep Learning Course Project, UNIST · Sep. 2026–Present
+Sep. 2026–Present · Deep Learning · 2-member team · Course research project
 
-**Research Question:** Can Korean NLI models reliably distinguish entailment, contradiction, and neutrality when small linguistic changes alter sentence meaning?
+- **Research question:** Can Korean NLI models reliably distinguish entailment, contradiction, and neutrality when small linguistic changes alter sentence meaning?
 
 ## honors
 **Student Merit Award (Team Award), UNIST** · Sep. 2026<br>
