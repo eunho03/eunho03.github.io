@@ -6,18 +6,43 @@ nav: true
 nav_order: 1
 ---
 
-## Course Projects
+Projects in AI evaluation, mobile LLM systems, and applied data analysis. Each entry describes my own contribution and the project's current stage.
 
-### Mobile Computing
-<p class="project-meta">Mar 2026 – Jun 2026</p>
+<h2 id="k-shift">K-SHIFT</h2>
 
-**BATT-Route: Battery-aware Routing for Mobile LLM Services**
+**Fine-Grained Diagnostic Testing of Korean NLI under Semantic Shifts**
 
-- Proposed battery-aware edge-cloud LLM routing and designed its evaluation, defining baselines and metrics and investigating benchmark datasets.
+Sep. 2026–Present · Deep Learning · 2-member team · **Proposal stage**
 
-## Competitions
+This proposal focuses on diagnosing how Korean natural language inference models respond to changes in negation, quantity, and conditional expressions.
 
-### [K-AI Manufacturing Data Analysis Competition](https://www.kamp-ai.kr/contestMain)
-<p class="project-meta">Sep 2026 – Oct 2026</p>
+- **Completed contribution:** Formulated the research question and reviewed prior work.
+- **Planned responsibility:** Experimental design. A teammate will conduct implementation and experiments.
 
-- Identified duplicated power-use patterns, integrated weather and holiday data, and screened ~100 candidate features using a random forest with SHAP and permutation importance.
+<h2 id="batt-route">BATT-Route</h2>
+
+**Battery-aware Routing for Mobile LLM Services**
+
+Mar.–Jun. 2026 · Mobile Computing · 4-member team · Course research report co-author
+
+This course project explored battery-aware routing between edge and cloud resources for mobile LLM services.
+
+- Proposed battery-aware edge-cloud LLM routing.
+- Implemented the routing algorithm using battery level and query characteristics.
+- Selected evaluation datasets and established baselines.
+
+<h2 id="manufacturing">K-AI Manufacturing Data Analysis Competition</h2>
+
+Sep.–Oct. 2026 · 3-member team · EDA & feature engineering
+
+My contribution focused on understanding power-use data and constructing informative features.
+
+- Identified duplicated power-use patterns through exploratory data analysis.
+- Integrated weather and holiday data.
+- Screened approximately 100 candidate features using a random forest with SHAP and permutation importance.
+
+[Competition website](https://www.kamp-ai.kr/contestMain)
+
+---
+
+For lab experience, education, honors, and service, see my [CV]({{ '/cv/' | relative_url }}).

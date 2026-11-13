@@ -3,17 +3,17 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Eun Ho
+first_name: Eunho
 middle_name:
 last_name: Koh
 contact_note: >
   Email is the best way to reach me.
 description: >
-  Eun Ho Koh — Computer Science and Engineering undergraduate at UNIST.
+  Eunho Koh — Computer Science and Engineering undergraduate at UNIST, interested in Human-Computer Interaction, Human-Centered AI, AI evaluation, and reliable machine learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: machine learning, data analysis, UNIST
+keywords: Eunho Koh, Human-Computer Interaction, Human-Centered AI, AI evaluation, reliable machine learning, distribution shift, UNIST
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: EK
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
