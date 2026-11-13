@@ -8,17 +8,6 @@ nav_order: 1
 
 Projects in AI evaluation, mobile LLM systems, and applied data analysis. Each entry describes my own contribution and the project's current stage.
 
-<h2 id="k-shift">K-SHIFT</h2>
-
-**Fine-Grained Diagnostic Testing of Korean NLI under Semantic Shifts**
-
-Sep. 2026–Present · Deep Learning · 2-member team · **Proposal stage**
-
-This proposal focuses on diagnosing how Korean natural language inference models respond to changes in negation, quantity, and conditional expressions.
-
-- **Completed contribution:** Formulated the research question and reviewed prior work.
-- **Planned responsibility:** Experimental design. A teammate will conduct implementation and experiments.
-
 <h2 id="batt-route">BATT-Route</h2>
 
 **Battery-aware Routing for Mobile LLM Services**
@@ -42,6 +31,21 @@ My contribution focused on understanding power-use data and constructing informa
 - Screened approximately 100 candidate features using a random forest with SHAP and permutation importance.
 
 [Competition website](https://www.kamp-ai.kr/contestMain)
+
+## Proposed research
+
+<h2 id="k-shift">K-SHIFT</h2>
+
+**Fine-Grained Diagnostic Testing of Korean NLI under Semantic Shifts**
+
+Sep. 2026–Present · Deep Learning · 2-member team · **Proposal stage**
+
+This proposal focuses on diagnosing how Korean natural language inference models respond to changes in negation, quantity, and conditional expressions.
+
+- **Completed contribution:** Formulated the research question and reviewed prior work.
+- **Planned responsibility:** Experimental design. A teammate will conduct implementation and experiments.
+
+
 
 ---
 

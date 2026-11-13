@@ -27,7 +27,9 @@ permalink: /
 @media(max-width: 700px) {
  .academic-home { padding-top: 12px; font-size: 16px; }
  .academic-intro, .academic-row { grid-template-columns: 1fr; gap: 22px; }
- .portrait-column { width: min(220px, 72%); }
+ .portrait-column { width: 150px; }
+ .academic-home h1 { margin-bottom: 20px; }
+ .academic-bio { overflow-wrap: anywhere; }
  .academic-home h1 { font-size: 36px; }
  .academic-section { margin-top: 42px; }
  .academic-row { gap: 7px; }
@@ -72,7 +74,7 @@ permalink: /
       <p class="affiliation">Computer Science and Engineering · UNIST</p>
       <p>I am an undergraduate student in Computer Science and Engineering at <a href="https://www.unist.ac.kr/">UNIST</a>. My research interests lie in <strong>Human-Computer Interaction (HCI)</strong> and <strong>Human-Centered AI</strong>, with a focus on AI evaluation, reliable machine learning, and distribution shift.</p>
 
-      <p>I am interested in how we can evaluate AI systems in ways that account for people and changing real-world conditions. My experience spans reinforcement learning, graph-based community detection, and applied data analysis. I am currently developing a proposal for diagnostic evaluation of Korean natural language inference under semantic shifts.</p>
+      <p>My experience includes reinforcement learning, graph-based community detection, and applied data analysis. My proposed K-SHIFT project focuses on diagnostic evaluation of Korean natural language inference.</p>
 
       <p class="detail"><a href="{{ '/projects/' | relative_url }}">Research &amp; projects</a> · <a href="mailto:ehko030715@unist.ac.kr">Email</a></p>
     </div>
@@ -98,10 +100,7 @@ permalink: /
   </section>
   <section class="academic-section" aria-labelledby="projects-heading">
     <h2 id="projects-heading">selected projects</h2>
-    <div class="academic-row">
-      <div class="academic-date">Sep 2026 – present</div>
-      <div><h3><a href="{{ '/projects/' | relative_url }}#k-shift">K-SHIFT</a></h3><p class="detail">Korean NLI evaluation · 2-member team · Proposal stage</p><p>Formulated a research question and reviewed prior work on diagnostic testing under changes in negation, quantity, and conditional expressions. My planned role is experimental design; a teammate will conduct implementation and experiments.</p></div>
-    </div>
+    <p class="detail">Coursework and competition contributions. Proposed work is listed separately below.</p>
     <div class="academic-row">
       <div class="academic-date">Mar 2026 – Jun 2026</div>
       <div><h3><a href="{{ '/projects/' | relative_url }}#batt-route">BATT-Route</a></h3><p class="detail">Battery-aware routing for mobile LLM services · 4-member team</p><p>Proposed battery-aware edge-cloud LLM routing and implemented the routing algorithm using battery level and query characteristics. Selected evaluation datasets and established baselines.</p></div>
@@ -109,6 +108,11 @@ permalink: /
     <div class="academic-row">
       <div class="academic-date">Sep 2026 – Oct 2026</div>
       <div><h3><a href="{{ '/projects/' | relative_url }}#manufacturing">K-AI Manufacturing Data Analysis Competition</a></h3><p class="detail">EDA &amp; feature engineering · 3-member team</p><p>Identified duplicated power-use patterns, integrated weather and holiday data, and screened approximately 100 candidate features using a random forest with SHAP and permutation importance.</p></div>
+    </div>
+    <h3>Proposed research</h3>
+    <div class="academic-row">
+      <div class="academic-date">Sep 2026 – present</div>
+      <div><h3><a href="{{ '/projects/' | relative_url }}#k-shift">K-SHIFT</a></h3><p class="detail">Korean NLI evaluation · 2-member team · Proposal stage</p><p>Formulated a research question and reviewed prior work on diagnostic testing under changes in negation, quantity, and conditional expressions. My planned role is experimental design; a teammate will conduct implementation and experiments.</p></div>
     </div>
   </section>
   <section class="academic-section" aria-labelledby="education-heading">
